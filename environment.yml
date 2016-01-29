@@ -1,0 +1,3 @@
+name: run_cloud
+dependencies:
+- python=2.7
